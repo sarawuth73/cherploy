@@ -1,0 +1,2096 @@
+﻿Version 4.14
+----------------
+7 October 2025
+
+
+
+
+= General = 
+
+- Icon of the Goddess no longer has a charge restriction in Midwars due to the item rework.
+
+
+
+
+
+= Staff of the Master & Master’s Legacy Changes = 
+
+
+
+
+
+
+Adrenaline
+
+
+Shard Blast
+- Staff of the Master effect changes (new):
+- Magic Damage increased from 30/40/50/60% to 60/70/80/90% of your strength.
+
+
+Rush
+- Staff of the Master effect changes (new):
+- Magic Damage increased from 30/40/50/60% to 60/70/80/90% of your strength.
+
+
+_______________________________________________
+
+
+Amun-Ra
+
+
+Ashes to Ashes
+- Staff of the Master effect changes (new):
+- When reaching 50 stacks, a random enemy within radius is auto-attacked once per 2.5 seconds, prioritizing enemy heroes.
+
+
+Pyroclasmic Rebirth
+- Staff of the Master effect changes (new):
+- While on cooldown, the current cooldown is reduced by 30 seconds upon scoring a hero kill and 15 seconds upon scoring an assist.
+
+
+_______________________________________________
+
+
+Circe
+
+
+Doppelganger
+- Staff of the Master effect changes (new):
+- Cooldown reduced from 12 to 7 seconds.
+- Illusions created by Circe’s spells explode upon death, dealing 100 Magic Damage and applying a 1 second stun to all enemies within 300 range of the illusion.
+* This effect applies to illusions created by both Doppelganger and Deceive.
+
+
+_______________________________________________
+
+
+Cthulhuphant
+
+
+Trample
+- Staff of the Master effect changes (new):
+- Cooldown reduced from 13 to 10 seconds.
+- Every time Cthulhuphant hits an enemy hero, he gains 2 strength for 24 seconds. This effect stacks, but each stack has a separate timer.
+
+
+Obliterate
+- Staff of the Master effect changes (new):
+- Cooldown reduced from 20 to 17 seconds.
+- Every time Cthulhuphant hits an enemy hero, he gains 2 strength for 24 seconds. This effect stacks, but each stack has a separate timer.
+
+
+Dream of Madness
+- Staff of the Master effect changes (to pre-existing):
+- Every time Cthulhuphant hits an enemy hero, he gains 2 strength for 24 seconds. This effect stacks, but each stack has a separate timer.
+
+
+_______________________________________________
+
+
+Dampeer
+
+
+Consume
+- Staff of the Master effect changes (to pre-existing):
+- Upon death: With 4 or more Essences, only 2 Essences are lost.
+
+
+_______________________________________________
+
+
+Devourer
+
+
+Decay
+- Staff of the Master effect changes (to pre-existing):
+- Current effects removed.
+
+
+Swallow (D) - new sub-ability
+- Staff of the Master effect changes (new):
+- Target an enemy hero to swallow them whole in your belly for up to 4.5 seconds. Activate again to spit the hero out.
+- Devourer deals 55/95/135 Health per second to the enemy while you heal 55/95/135 Health per second for the duration.
+- Duration is reduced on a basis of 1% max duration (0.045 seconds) per 1% of Max Health lost.
+- This ability is no longer channeling and applies restrained to self for the duration.
+* Teleporting will cause the target to fall out in place.
+- Status effects (e.g Shrunken Head) of the target are paused if activated prior to this effect.
+- Shares a cooldown with Devour.
+
+
+_______________________________________________
+
+
+Doctor Repulsor
+
+
+Electric Frenzy
+- Staff of the Master effect changes (new):
+- Deals an additional Magic Damage equal to 2% of your Max Mana.
+
+
+Ludicrous Speed
+- Staff of the Master effect changes (new):
+- No longer applies perplexed to self.
+- Staff of the Master effect changes (to pre-existing):
+- No longer reduces the initial mana cost.
+- No longer reduces the mana cost per 100 units traveled.
+
+
+_______________________________________________
+
+
+Forsaken Archer
+
+
+Crippling Volley
+- Staff of the Master effect changes (new):
+- Now spawns 2 additional Crippling Volleys near the location.
+
+
+Piercing Arrows
+- Staff of the Master effect changes (new):
+- Passively spawns a Skeleton that fires three arrows over 1.5 seconds whenever you score a hero kill or assist.
+
+
+_______________________________________________
+
+
+Gauntlet
+
+
+Gauntlet Blast
+- Staff of the Master effect changes (to pre-existing):
+- Lifetime projectile reduced from 2 to 1 second.
+
+
+_______________________________________________
+
+
+Gravekeeper
+
+
+Corpse Toss
+- Staff of the Master effect changes (new):
+- Refresh rate lowered from 10 to 6 seconds.
+- When cast, throws a second corpse at an additional enemy, prioritizing heroes. Can’t target the same enemy twice.
+- When cast, 1 unstable or 1 wretched zombie will spawn at random, prioritizing the nearest enemy hero.
+
+
+Corpse Explosion
+- Staff of the Master effect changes (new):
+- When cast, 1 unstable or 1 wretched zombie will spawn at random, prioritizing the nearest enemy hero.
+
+
+_______________________________________________
+
+
+Ichor
+
+
+Transfusion
+- Staff of the Master effect changes (new):
+- Cooldown reduced from 20/18/16/14 to 16/14/12/10 seconds.
+
+
+Saint’s Blood
+- Staff of the Master effect changes (new):
+- Ichor’s active abilities are empowered, depending on how many debuffs he has applied to himself (up to 4):
+- Life Leech causes the target to receive an additional 15 Magic Damage from non-Dot, non-Returned damage per debuff on Ichor.
+- Transfusion reduces the Armor and Magic Armor of all enemies hit by 1 per debuff on Ichor for 1.75 seconds.
+- Bloodrush reduces Base Attack Damage, Attack Speed and Movement Speed of enemies affected by 5% per debuff on Ichor.
+
+
+- Passively applies a random debuff on Ichor once every 15 seconds. Possible debuffs include:
+- Saint’s Burden: Reduces the Total Attack Damage by 30% for 35 seconds.
+- Saint’s Pain: Reduces Attack Speed by 30% for 35 seconds.
+- Saint’s Trial: Increases the duration of debuffs and stuns affecting you by 15% for 35 seconds.
+- Saint’s Scars: Reduces Agility by 30% of Ichor’s Agility for 35 seconds.
+- Saint’s Doubts: Reduces damage dealt by 15% for 35 seconds.
+
+
+_______________________________________________
+
+
+Klanx
+
+
+H.A.W.K.
+- Staff of the Master effect changes (to pre-existing):
+- No longer reduces the cooldown from 10 to 6 seconds.
+- While active, one additional Lackey assists Klanx.
+- The Lackey has Superior Magic Damage type and deals 30/40/50/60 damage.
+* This Lackey does not spawn or work with illusions.
+
+
+Lackey
+- Staff of the Master effect changes (to pre-existing):
+- No longer increases Magic Damage by 30.
+- Lackey now deals Superior Magic Damage.
+
+
+_______________________________________________
+
+
+Night Hound
+
+
+Smoke Bomb
+- Staff of the Master effect changes (new):
+- The cloud is refreshed when you score a takedown against an enemy hero that’s inside the cloud.
+- Radius increased from 325 to 450.
+
+
+Pounce
+- Staff of the Master effect changes (new):
+- While inside the cloud, the cooldown refreshes 2.5x faster.
+
+
+_______________________________________________
+
+
+Nomad
+
+
+Wanderer
+- Staff of the Master effect changes (new):
+- When off cooldown: If you have 100 charges, your next attack against an enemy hero releases the Edge Counter’s shockwave, then puts this ability on cooldown for 60 seconds. The cooldown is reduced at a rate of (Movement Speed)/150 seconds while moving.
+- Applies a 1 second stun and deals 325 Magic Damage in 500 range from the hero attacked.
+- This ability doesn’t share a cooldown with Edge Counter.
+- Does not proc from illusions.
+
+
+_______________________________________________
+
+
+Nitro
+
+
+Ballistic
+- Staff of the Master effect changes (new):
+- Increases the maximum number of Shrapnels created from 21 to 30 and their duration from 8 to 11 seconds.
+- Enemies passing through Shrapnel are slowed by 1% for 2.5 seconds. This effect stacks up to 30 times.
+
+
+Blast Off
+- Staff of the Master effect changes (new):
+- Whenever an enemy is being knocked back by Blast Off, it receives an additional 10 Magic Damage from each Shrapnel it passes through.
+
+
+_______________________________________________
+
+
+Oogie 
+
+
+Conflagrate
+- Staff of the Master effect changes (new):
+- While active: Increases Movement Speed granted from 5/10/15/20% to 20/25/30/35% and grants 30% slow resistance.
+- Drains 4% of your Max Mana every 0.65 seconds.
+- Magic Damage is dealt to nearby enemies every 0.65 seconds.
+
+
+_______________________________________________
+
+
+Pearl
+
+
+Preservation
+- Staff of the Master effect changes (new):
+- Target scheme changed to target area within 600 range and applies Asphyxiate to all heroes (enemy and ally) in the area of the bubble on cast.
+- Max Push Strength increased from 500 to 750.
+
+
+_______________________________________________
+
+
+Pollywog Priest
+
+
+Electric Jolt
+- Staff of the Master effect changes (new):
+- Cooldown reduced from 10 to 4 seconds.
+- Can now hit Voodoo Wards, increasing their Attack Speed by 175 for 1 second.
+
+
+Voodoo Wards
+- Staff of the Master effect changes (to pre-existing):
+- No longer increases the number of wards by 3.
+
+
+_______________________________________________
+
+
+Rampage
+
+
+Might of the Herd
+- Staff of the Master effect changes (new):
+- Now also grants Rampage 40% Stun and Debuff Resistance while active.
+
+
+Horned Strike
+- Staff of the Master effect changes (to pre-existing):
+- No longer has reduced cooldown.
+
+
+_______________________________________________
+
+
+Ravenor
+
+
+Static Shock
+- Staff of the Master effect changes (new):
+- Now can be activated:
+- Place a 500 radius Static Field at a location within 1050 range. On cast and every 2.5 seconds, shocks emit from the ground applying an 80% Movement Speed slow for 1 second to enemies within the area and granting Ravenor 8 charges on Power Overwhelming for each enemy hero hit.
+- Duration: 7.5 seconds
+- Cooldown 45 seconds
+
+
+_______________________________________________
+
+
+Riptide
+
+
+Watery Grave
+- Staff of the Master effect changes (new):
+- Now bounces twice, making it affect up to three different targets, prioritizing enemy heroes.
+- Bounce range is 600.
+
+
+In My Element
+- Staff of the Master effect changes (new):
+- While on water, Riptide gains a health shield that grows at a pace of 20 per second, to a maximum of 340. While the shield persists, she has the benefits of In My Element.
+
+
+_______________________________________________
+
+
+Salomon
+
+
+Wish for Power/Golden Sword
+- Staff of the Master effect changes (new):
+- Salomon has both of the passive effects active, regardless of his “form”.
+- Attack Speed bonus granted by Wish for Power increased from 10/15/20/25 to 20/25/30/35.
+- Movement Speed Slow granted by Golden Sword increased from 20% to 30%.
+
+
+_______________________________________________
+
+
+Sapphire
+
+
+Reckless Charge 
+- Staff of the Master effect changes (new):
+- When an enemy is knocked and hits the collision, it releases a shockwave causing all enemies within 375 range to take 60/120/180/240 Magic Damage, be knocked back 400 units away and stunned for 0.6/0.8/1/1.2 seconds.
+
+
+Unstable Shard
+- Staff of the Master effect changes (new):
+- Health increased from 3 to 5.
+
+
+_______________________________________________
+
+
+Shellshock
+
+
+Rolling Thunder
+- Staff of the Master effect changes (to pre-existing):
+- No longer increases the ball speed by 50%.
+- Staff of the Master effect changes (new):
+- Bonus Cast Range increased from 700 to 1050.
+* Total Max Range changed from 2000 to 2350.
+- Magic Damage increased from 70 to 105.
+* Total Magic Damage changed from 140/210/280/350 to 175/245/315/385.
+
+
+_______________________________________________
+
+
+Silhouette
+
+
+Relentless Salvo - Ability D
+- Staff of the Master effect changes (new):
+- Passive effect of the ability has its cooldown reduced from 4/3/2/1 to 0 seconds.
+- Now can be activated:
+- Quickly dashes in the chosen direction and increases the spin speed of Death Lotus by 275% for 0.7 seconds.
+- Mana cost: 40
+- Cooldown: 4 seconds
+- Range: 400
+
+
+_______________________________________________
+
+
+Skrap
+
+
+Mousetrap
+- Staff of the Master effect changes (new):
+- Vision radius increased from 300 to 850.
+- Movement Speed increased from 350 to 500.
+- Duration increased from 40 to 80 seconds.
+
+
+Scavenge
+- Staff of the Master effect changes (new):
+- Healing to Heroes increased from 10 to 15 per second.
+- Healing to Vorax increased from 15/35/55/75 to 40/60/80/100 per second.
+
+
+_______________________________________________
+
+
+Slither
+
+
+Poison Burst
+- Staff of the Master effect changes (to pre-existing):
+- Cooldown increased from 50 to 95/80/65 seconds.
+
+
+_______________________________________________
+
+
+Solstice
+
+
+Solar Slash
+- Staff of the Master effect changes (new):
+- Cooldown reduced to 0 seconds.
+* Check Solstice hero balance.
+- No longer reduces hits from 3 to 2.
+- Bonus damage increased from 55/75/100/125 to 75/95/120/145 and lifesteal increased from 10/15/20/25% to 25/30/35/40%.
+
+
+Crescent Strike
+- Staff of the Master effect changes (new):
+- Cooldown reduced to 0 seconds.
+* Check Solstice hero balance.
+- No longer reduces hits from 3 to 2.
+- Deals an additional damage equal to 5% of the target’s Max Health.
+
+
+_______________________________________________
+
+
+Tarot
+
+
+Luck of the Draw
+- Staff of the Master effect changes (new):
+- Mana cost: 100
+- Cooldown: 35 seconds
+- Activate to empower your next ability:
+- Ricochet: Disarms and Silences enemies hit by the initial blast for 2 seconds.
+- Far Scry: The next 4 attacks against the target gain 165 Attack Speed.
+- Bound by Fate: Binds an additional pair of enemies and restrains the targets affected for the duration.
+
+
+_______________________________________________
+
+
+The Dark Lady
+
+
+Charging Strikes
+- Staff of the Master effect changes (new):
+- Increases the cast range by 150.
+- Each consecutive attack when charging no longer reduces the damage.
+- Resets the ability when scoring a hero kill and reduces the duration by half upon assisting a hero kill.
+
+
+_______________________________________________
+
+
+The Gladiator
+
+
+Pitfall
+- Staff of the Master effect changes (new):
+- Whenever an enemy hero is hit by Pitfall, Flagellation’s cooldown is reset.
+
+
+Flagellation
+- Staff of the Master effect changes (new):
+- Enemies hit are pulled 300 units towards the Gladiator.
+
+
+Call to Arms
+- Staff of the Master effect changes (new):
+- Grants allies in the Chariot’s path 25% Stun and Debuff duration reduction and increases the duration of the buff from 4 to 6 seconds.
+
+
+_______________________________________________
+
+
+War Beast
+
+
+Hellhounds
+- Staff of the Master effect changes (new):
+- Health increased from 400/425/450/475 to 800/850/900/950.
+- Now gains an additional ability: Roar
+- On attack, grant 4% Base Attack Damage to all allies within 600 range for 6 seconds. This effect stacks up to 20 times.
+
+
+Metamorphosis
+- Staff of the Master effect changes (to pre-existing):
+- No longer grants the effects passively.
+
+
+_______________________________________________
+
+
+Warchief
+
+
+Spirit Walk
+- Staff of the Master effect changes (new):
+- Spirit Walk now can move through everything.
+- Spirit Walk Movement Speed increased from 650 to 900.
+
+
+Power of the Elders
+- Staff of the Master effect changes (new):
+- Every proc spawns a random Totem and slows the enemy hit by 20% for 1 second.
+
+
+_______________________________________________
+
+
+Wildsoul
+
+
+Summon Booboo
+- Staff of the Master effect changes (to pre-existing):
+- Gains a new sub-ability D - Bear’s Charge:
+- Charges in the chosen direction, dealing 150 Physical Damage to enemies hit and inflicting a Physical Stun to enemies hit for 1.25 seconds.
+- Booboo no longer loses Attack Speed when more than 1050 units away from Wildsoul.
+- Booboo gains an amount of Attack Damage, Attack Speed and Armor equal to 25% of Wildsoul’s.
+_______________________________________________
+
+
+Witch Slayer
+
+
+Silver Bullet
+- Staff of the Master effect changes (to pre-existing):
+- Magic Damage reduced from 750/950/1150 to 700/875/1050.
+
+
+_______________________________________________
+
+
+Xemplar
+
+
+Echo Strikes
+- Staff of the Master effect changes (new):
+- Now gains a 15% chance to create an illusion that lasts for 7 seconds.
+* Only Xemplar himself can proc this effect.
+- The illusions deal 100% damage and receive 300% damage.
+
+
+Schism
+- Staff of the Master effect changes (to pre-existing):
+- No longer spawns 2 extra illusions and no longer increases the duration from 30 to 40 seconds.
+
+
+_______________________________________________
+
+
+
+
+
+
+= Heroes =
+
+
+Adrenaline
+
+
+Strength per level increased from 2.5 to 2.6.
+Agility per level increased from 1.8 to 1.9
+Starting Attack Damage increased from 51-57 to 52-58.
+
+
+Shard Blast
+- Magic Damage increased from 75/105/135/165 + 30/40/50/60% of Strength to 80/110/140/170 + 30/40/50/60% of Strength
+
+
++ Some minor adjustments to help Adrenaline get into the late game.
+
+
+_______________________________________________
+
+
+Andromeda
+
+
+Aurora
+- Negative armor debuff duration reduced from 14 to 8 seconds.
+
+
++ This change will widen the gap between ability cooldown and debuff duration.
+
+
+_______________________________________________
+
+
+Amun-Ra
+
+
+Pyroclasmic Rebirth
+- No longer grants bonus damage upon revival.
+- Now grants damage immunity for 1.5/2/2.5 seconds upon revival.
+* This puts Portal Key on a 3 second cooldown.
+- Revival duration reduced from 3 seconds to 3/2.25/1.5 seconds.
+- Health on respawn increased from 10~60% to 30~70%.
+
+
++ These changes aim to make Pyroclasmic Rebirth more effective throughout the game.
+
+
+_______________________________________________
+
+
+Armadon
+
+
+Spine Burst
+- Mana cost decreased from 40 to 35.
+
+
+Armordillo
+- Maximum Damage Reduction increased from 15/22/29/36% to 16/24/32/40%.
+
+
++ These changes aim to help his sustain throughout the game.
+
+
+_______________________________________________
+
+
+Artillery
+
+
+Starting Attack Range reduced from 600 to 575.
+
+
+LRM
+- Percentage of Attack Damage bonus on each LRM shot increased from 7/13/19/25% to 7/14/21/28%.
+- No longer deals reduced damage to non-hero units.
+
+
++ These changes will help Artillery transition to the later stages of the game at the expense of some attack range.
+
+
+_______________________________________________
+
+
+Berzerker
+
+
+Mark for Death
+- Mana cost reduced from 75 to 55/60/65/70.
+
+
+Strength Sap
+- Cooldown reduced from 20/19/18/17 to 15 seconds.
+- Buff duration after sapping is reduced from 6 to 5 seconds.
+
+
++ These changes aim to improve early game mana efficiency and slightly increase creep clearing speed.
+
+
+_______________________________________________
+
+
+Cthulhuphant
+
+
+Trample 
+- Turn rate increased to make this ability smoother to use.
+- Radius increased from 125 to 150.
+- No longer has to travel its full range.
+
+
+Dream of Madness - Rework
+- Activate to channel for 2 seconds, reducing incoming damage by 40/45/50%.
+- Taunts all enemies within 600 Radius for the duration, granting them increased Movement Speed.
+- At the end of the Taunt, now deals 175/250/325 Magic Damage to all enemies within the Radius, up to 350/500/650 Magic Damage.
+* Damage is increased by 2% per 1% of Health loss during the channel.
+- Mana cost: 150/200/250.
+- Cooldown: 120/110/100.
+
+
++ Changes to Trample will increase its precision. Reworking Dream of Madness will add more reliable crowd control encouraging players to use this more proactively to initiate and tank damage.
+
+
+_______________________________________________
+
+
+Dampeer
+
+
+Terrorize
+- Damage per Essence increased from 35 to 40.
+
+
+Vampiric Flight
+- Range rescaled from 600 to 550/575/600/625.
+- Cooldown rescaled from 16/14/12/10 to 13/12/11/10 seconds.
+- Magic Damage increased from 50/90/130/170 to 80/110/140/170.
+- Healing per unit increased from 12/18/24/30 to 16/22/28/34.
+
+
+Bloodthirst
+- Attack Speed per Essence increased from 10 to 15.
+
+
+Consume
+- Upon death, with 3 or less Essences, only 1 Essence is lost.
+
+
++ These changes aim to improve early laning sustain and attack speed scaling as he is primarily a magic burst carry.
+
+
+_______________________________________________
+
+
+Deadlift
+
+
+Strength per level increased from 2.5 to 2.7.
+Intelligence per level reduced from 2.8 to 2.5.
+
+
+Resurrection
+- Mana cost changed from 250 to 200/225/250.
+- Cooldown reduced from 160/120/80 to 130/105/80 seconds.
+- Reduced channel time from 3 to 2.5 seconds.
+
+
++ These changes put more emphasis on his main attribute and will allow him to cast his ultimate more frequently to turn the tides in favor of his team during teamfights.
+
+
+_______________________________________________
+
+
+Deadwood
+
+
+Rotten Grasp
+- Increased impact time from 1.15 to 1.35 seconds.
+
+
+Willowmaker
+- Physical Damage changed from 200/400/600 + 40% of the target’s strength to 300/400/500 + 25/35/45% of the target’s strength.
+
+
++ The change to Rotten Grasp will make it less reliable without a setup. Rescaling Willowmaker’s effects based on the target’s strength that Deadwood receives will make him less durable early game and slightly stronger late, while the total damage will remain roughly the same.
+
+
+_______________________________________________
+
+
+Defiler
+
+
+Siphon Soul
+- Damage dealt to enemy heroes changed from 20 to 15 + 1% of their Max Health per second.
+
+
+Unholy Expulsion
+- The number of ghosts increased from 6/12/18 to 8/15/22.
+- Spirit Attack Damage reduced from 50 to 45.
+
+
++ These changes aim to boost Defiler’s presence throughout the game at the cost of slightly reducing the Spirit Attack Damage.
+
+
+_______________________________________________
+
+
+Devourer
+
+
+Guttling Hook
+- Hook range increased from 850/1000/1150/1300 to 925/1050/1175/1300.
+
+
++ Rescaling the hook range should improve his early game roaming, which was hit too hard in prior changes.
+
+
+_______________________________________________
+
+
+Doctor Repulsor
+
+
+Attack range increased from 475 to 500.
+
+
+Magnetic Contraption
+- Cooldown reduced from 10/8/6/4 to 7/6/5/4 seconds.
+
+
+Opposite Charges
+- Mana cost increased from 70/80/90/100 to 100.
+- Stun duration rescaled from 0.8/1.2/1.6/2 to 1.2/1.5/1.8/2.1 seconds.
+- Cooldown increased from 16/14/12/10 to 16/15/14/13 seconds.
+
+
+Electric Frenzy
+- No longer resets your autoattack cooldown upon using an ability.
+- No longer has a cooldown mechanic.
+- No longer grants +50 attack speed.
+- Next attack Magic Damage increased from 35/50/65/80 to 40/60/80/100.
+
+
+Ludicrous Speed
+- Travel speed reduced from 1500/2500/3500 to 1500/2000/2500.
+- Cooldown reduced from 1.2/0.85/0.5 to 0 seconds.
+- No longer deals half damage to creeps.
+- Magic Damage for every 100 units traveled increased from 6/12/18, up to 200/300/400 to 10/15/20.
+* No longer has a maximum damage cap.
+- Initial mana cost per cast changed from 20 + 8% Max Mana to 11% Max Mana.
+
+
++ Changes made to Doctor Repulsor aim to bring back some of his old functionality. This entails having better laning power and early game presence, while toning down some of the frustrating aspects that Ludicrous Speed brings to his kit. This should make Doctor Repulsor more fun to play as well as being less oppressive on the receiving end.
++ Changes to the initial mana cost of Ludicrous Speed will cost Doctor Repulsor roughly the same amount of mana at lower levels and will be more taxing on his Mana Pool when jumping multiple times during the later phases of the game.
+
+
+_______________________________________________
+
+
+Drunken Master
+
+
+Drink
+- Healing received is increased by 0.25 per charge (+4.5/6.75/9/11.25, up to 11.5/13.75/16/18.25)
+
+
++ This change aims to make his sustain stronger and allow him to perform his role of going into fights.
+
+
+_______________________________________________
+
+
+Electrician
+
+
+Intelligence per level increased from 1.5 to 1.8.
+
+
+Static Grip
+- Stun duration increased from 1.5/2/2.5/3 to 2/2.4/2.8/3.2 seconds.
+- Magic Damage per second decreased from 60 to 45/50/55/60.
+* Total damage changed from 90/120/150/180 to 90/120/154/192.
+
+
++ These changes aim to improve his lockdown and mana scaling.
+
+
+_______________________________________________
+
+
+Empath
+
+
+Essence Link
+- Stun duration changed from 1/1.5/2/2.5 to 1.4/1.7/2/2.3 seconds.
+
+
++ Some added utility to earlier levels for a single-target ability.
+
+
+_______________________________________________
+
+
+Flint Beastwood
+
+
+Explosive Flare
+- Cooldown rescaled from 10 to 13/12/11/10 seconds.
+- Cast range reduced from 1000 to 850.
+- Day and Night Clearvision duration lowered from 6 to 5 seconds.
+
+
++ This change to Explosive Flare aims to allow the opposition more time to reach Flint Beastwood early game and reduce its utility.
+
+
+_______________________________________________
+
+
+Forsaken Archer
+
+
+Split Fire
+- Passive Attack Speed reduced from 16/24/32/40 to 15/20/25/30.
+- Split Fire damage reduced from 30/40/50/60% to 20/30/40/50%.
+
+
++ Forsaken Archer is still accelerating too quickly in both farm speed and team-fight damage output. This change aims to tone this down.
+
+
+_______________________________________________
+
+
+Gauntlet
+
+
+Starting Strength increased from 22 to 24.
+* Starting Attack Damage remains the same (53-55).
+Starting Intelligence reduced from 18 to 16.
+Intelligence per level reduced from 2.5 to 1.7.
+Base Armor increased from 0.5 to 0.92.
+* Starting Armor changed from 2.6 to 3.02.
+
+
++ These changes will reduce his high early game mana pool and its scaling, while providing more focus on his main attribute and survivability.
+
+
+_______________________________________________
+
+
+Gemini
+
+
+Fire and Ice
+- Cooldown rescaled from 65/55/45 to 45 seconds.
+* The split form abilities scale with Fire and Ice’s level.
+
+
++ This will allow Gemini to play in split form more frequently during early and mid game.
+
+
+_______________________________________________
+
+
+Geomancer
+
+
+Dig
+- Stun duration rescaled from 2 to 1.4/1.6/1.8/2 seconds.
+- Cooldown increased from 11 to 12 seconds.
+
+
++ This aims to tone down his early game roaming.
+
+
+_______________________________________________
+
+
+Grinex
+
+
+Rift Stalk
+- Duration reduced from 7/8/9/10 to 6/7/8/9 seconds.
+- Charge refresh time increased from 15/14/13/12 to 17/16/15/14 seconds.
+
+
+Nether Strike
+- No longer applies a negative armor effect on enemy targets.
+
+
++ These changes aim to lower his burst damage and high invisibility upkeep early game.
+
+
+_______________________________________________
+
+
+Gunblade
+
+
+Crippling Slugs
+- Now fires 3 slugs in a cone. Each slug deals 90/150/210/270 Physical Damage and slows enemies hit by 25/30/35/40% for 3 seconds. An enemy can only be affected by one slug.
+
+
++ A QoL change that will improve both damage consistency and creep clearing.
+
+
+_______________________________________________
+
+
+Hammerstorm
+
+
+Base Movement Speed increased from 290 to 300.
+
+
+Brute Strength
+- Bonus Base Damage increased from 70/100/135% to 80/110/140%.
+
+
++ These changes aim to increase his mobility and teamfight DPS.
+
+
+_______________________________________________
+
+
+Jeraziah
+
+
+Inner Light
+- Mana cost rescaled from 90/110/130/150 to 75/95/115/135.
+
+
+Protective Charm
+- Duration increased from 6 to 7 seconds.
+
+
++ These changes aim to increase the efficiency of Jeraziah after the last round of nerfs.
+
+
+_______________________________________________
+
+
+Kane
+
+
+Steel Resolve
+- Kane’s Anguish target’s Attack Damage per charge granted to Kane decreased from 7.5% to 5%.
+* Max Target’s Attack Damage granted to Kane reduced from 30% to 20%.
+
+
++ This change aims to reduce Kane’s oppressive kill rate once using Face Off throughout the match.
+
+
+_______________________________________________
+
+
+King Klout
+
+
+Goblin Toss 
+- Red and Green goblins Magic Damage increased from 70/90/110/130 to 80/100/120/140.
+
+
+Bluster
+- Cooldown rescaled from 30/26/22/18 to 21/20/19/18 seconds.
+
+
++ Some QoL improvements to help his kit.
+
+
+_______________________________________________
+
+
+Klanx 
+
+
+H.A.W.K.
+- Now only loses charges when receiving hero damage.
+
+
+A.T.K. Drones
+- Third Drone damage type changed from Magic to Superior Magic.
+
+
++ The change to H.A.W.K. will be an improvement versus player controlled minion swarms and gadgets that could remove this effect too easily, meanwhile the change to his ultimate aims to make Klanx less centered around only dealing Magic Damage in the later stages of the game.
+
+
+_______________________________________________
+
+
+Kraken
+
+
+Release the Kraken!
+- Radius changed from 250/275/300 to 275 at all levels.
+- No longer increases Physical Damage to enemies who reach the center by 10/15/20%.
+
+
++ These changes will tone down some overtuned aspects of Release the Kraken!
+
+
+_______________________________________________
+
+
+Lodestone
+
+
+Headsmash
+- Base Damage reduced from 150/240/330/420 to 140/210/280/350 Mixed Damage.
+- Instead of dealing damage that’s both Physical and Magical, now deals 50% of its damage as Physical and 50% of its damage as Magical.
+
+
+Shatterstorm
+- Base Damage reduced from 200/325/450 to 150/225/300 Mixed Damage.
+- Instead of dealing damage that’s both Physical and Magical, now deals 50% of its damage as Physical and 50% of its damage as Magical.
+
+
++ These changes will make each damage instance reduced once, rather than twice, resulting in a net damage increase when an enemy hero’s armor is higher than their magic.
+
+
+_______________________________________________
+
+
+Madman
+
+
+Stalk
+- Mana cost rescaled from 55/60/65/70 to 60.
+
+
++ Madman’s spell costs were overnerfed in previous changes. This aims to remedy his early game spell spam slightly.
+
+
+_______________________________________________
+
+
+Magmus
+
+
+Starting Strength increased from 22 to 24.
+* Starting Attack Damage remains the same (50-61).
+Strength per level increased from 2.3 to 2.5.
+
+
++ A boost to his laning phase and scaling slightly.
+
+
+_______________________________________________
+
+
+Martyr
+
+
+Retribution
+- Cooldown increased from 10 to 13/12/11/10 seconds.
+- No longer heals allied heroes within the radius for 40% of the damage dealt.
+
+
+Sol’s Conviction
+- Holy Anguish sub-ability no longer grants Health back upon being used.
+- Health loss changed from 30% of your current Health to 15/20/25/30% of your current Health.
+
+
+Hand in Hand
+- Cooldown increased from 80/70/60 to 100/85/70 seconds.
+- No longer instantly purges stuns and debuffs when targeting an ally.
+
+
++ Martyr is overperforming after the last several rounds of buffs. These changes should tone down his effectiveness.
+
+
+_______________________________________________
+
+
+Midas
+
+
+Golden Salvo
+- Mana cost reduced from 115/130/145/160 to 100/115/130/145.
+
+
+Lion’s Pride
+- Mana cost reduced from 110/120/130/140 to 95/105/115/125.
+
+
+Elemental Warp
+- Mana cost reduced from 115 to 105.
+
+
+Transmute
+- No longer applies Midas’ Touch, which increases Attack Damage taken from Midas.
+- No longer reduces all basic ability cooldowns by 2/3/4 seconds, instead does the following cooldown reductions:
+- Golden Salvo reduced by 2/4/6 seconds.
+- Lion’s Pride reduced by 1/2/3 seconds.
+- Elemental Warp reduced by 2/3/4 seconds.
+- When Transmuting an enemy hero, grants 10/20/30 gold to Midas.
+- When Transmuting an enemy hero, there is a 20% chance to be granted double the gold.
+
+
++ Reducing the mana costs of his abilities will increase his spell efficiency throughout the game. The changes to Transmute aim to fit his role of a spellcaster further by removing the bonus attack damage and synergizing the cooldowns more from his cooldown reduction and adding a more thematic benefit of gaining gold when landing a successful Transmute on enemy heroes.
+
+
+_______________________________________________
+
+
+Moira
+
+
+Agility per level increased from 2.3 to 2.5.
+Intelligence per level reduced from 2.1 to 1.8.
+
+
+Ephemeral Forge
+- Cooldown reduced from 95/90/85/80 to 75/70/65/60 seconds.
+- Spirit Mimic duration changed from 12/18/24/30 to 12/15/18/21 seconds.
+- Gold and Experience granted to any enemy that kills the spirit changed from 30/45/60/75 to 50 at all levels.
+
+
++ These changes aim to give emphasis to her main attribute and improve her ganking presence through her Spirit Mimic slightly.
+
+
+_______________________________________________
+
+
+Monkey King
+
+
+Flying Nimbus
+- Now goes on cooldown only when taking damage from heroes, structures or bosses.
+- Mana Regeneration lowered from 3/5/7 to 2/4/6.
+
+
++ This change aims to bring back some of his old farm speed at the expense of less sustain.
+
+
+_______________________________________________
+
+
+Nymphora
+
+
+Volatile Pod
+- Base Damage/Heal reduced from 40 to 30.
+* Potential maximum Damage/Heal reduced from 130/190/250/310 to 120/180/240/300.
+
+
+Teleport
+- Cooldown rescaled from 100/85/70 to 100/90/80 seconds.
+
+
++ These changes aim to reduce Nymphora’s efficiency for heal sustain and global ganking.
+
+
+_______________________________________________
+
+
+Parallax
+
+
+Starting Attack Damage increased from 43-48 to 46-51.
+Starting Armor increased from 2.7 to 2.98.
+
+
+Fulcrum Shift
+- Magic Damage changed from 0/30/50/50/70 + 10% of Max Mana to 0/55/80/85/110 + 7.5% of Max Mana.
+- Now grants a 2nd charge automatically when leveling up at rank 3.
+
+
+Dark Mana
+- Parallax starts with this ability automatically leveled.
+- Charges rescaled from 3/6/9/12 to 0/3/6/9/12.
+
+
+Earthshatter
+- Magic Damage changed from 100/140/180 + 4 per 100 mana difference to 100/160/220 + 1 per 100 mana difference.
+
+
++ These changes aim to boost his laning presence and early game damage from his Fulcrum Shift. Reducing the late game scaling of both Fulcrum Shift and Earthshatter will reduce some of the frustrations when playing against Parallax in the later stages when his mana pool becomes significantly greater than his opponent.
+
+
+_______________________________________________
+
+
+Parasite
+
+
+Strength per level reduced from 2.6 to 2.4.
+Intelligence per level increased from 2.3 to 2.5.
+
+
+Infest
+- Reduced the time interval an enemy gets the credit for an infested creep after dealing it damage from 10 to 5 seconds.
+
+
++ Minor QoL changes to boost Parasite slightly.
+
+
+_______________________________________________
+
+
+Pestilence
+
+
+Starting Strength increased from 21 to 24.
+* Starting Attack Damage remains the same (51-59).
+Strength per level increased from 2.5 to 2.6.
+Agility per level increased from 1.8 to 2.0.
+
+
++ A boost to his laning stage and scaling.
+
+
+_______________________________________________
+
+
+Prisoner 945
+
+
+The Ol’ Ball and Chain
+- Hook range increased from 850/900/950/1000 to 1000 at all levels.
+
+
++ Reverting the change made to his hook since the hero has been significantly underperforming ever since.
+
+
+_______________________________________________
+
+
+Puppet Master
+
+
+Voodoo Puppet
+- Voodoo Puppet’s Health increased from 500/650/800 to 500/750/1000.
+
+
++ Previous changes to the Voodoo Puppet mid-late game were too underwhelming.
+
+
+_______________________________________________
+
+
+Qi
+
+
+Crippling Puncture
+- Cooldown rescaled from 24/20/16/12 to 18/16/14/12 seconds.
+- Mana cost rescaled from 100 to 85/90/95/100.
+- Disarm/slow duration changed from 1.6/2.4/3.2/4 to 2.2/2.6/3/3.4 seconds.
+
+
+A Thousand Cuts
+- Mana cost rescaled from 100 to 85/90/95/100.
+- The Spirit Shredder mana cost changed from 5/6/7/8 + 0.6/0.8/1/1.2% Max Mana per second to 4/5/6/7 + 1% Max Mana per second.
+- Shredder relocate cooldown rescaled from 4/3.5/3/2.5 to 2 seconds.
+- Shredder relocate mana cost increased from 25 to 30.
+
+
++ These changes aim to help his weak laning phase and make the shredder more consistent for early game hero damage.
+
+
+_______________________________________________
+
+
+Rally
+
+
+Compel
+- Physical Damage rescaled from 70/130/190/250 to 85/140/195/250.
+- Sub-ability E no longer causes Rally to dash forward immediately. Instead, you can choose your direction of dashing.
+
+
+Demoralizing Roar
+- Mana cost reduced from 65/70/75/80 to 50.
+
+
++ These changes aim to help his early game burst and mana efficiency.
+
+
+_______________________________________________
+
+
+Rampage
+
+
+Starting Strength increased from 23 to 24.
+* Starting Attack Damage remains the same (45-55).
+Strength per level increased from 2.2 to 2.5.
+Agility per level increased from 1.7 to 1.9.
+Base Movement Speed increased from 295 to 300.
+
+
+Stampede
+- No longer applies perplexed to self while charging.
+
+
+Might of the Herd - Rework
+- No longer grants Attack Damage based on your Movement Speed.
+- Changed the activate to do the following: Begin trampling for 4 seconds, disarming yourself and releasing a shockwave every 225 units traveled in a 300 radius. Enemies hit take 20/40/60/80 Physical Damage, plus 25% of Rampage’s Attack Damage.
+
+
++ Changes to his base stats and rework of Might of the Herd aim to improve Rampage’s role as a core hero and will allow him to scale into the game.
+
+
+_______________________________________________
+
+
+Ravenor
+
+
+Base Movement Speed lowered from 310 to 300.
+
+
+Ball Lightning
+- Cooldown rescaled from 16/14/12/10 to 15/14/13/12 seconds.
+
+
+Power Overwhelming
+- Bonus Movement Speed per charge reduced from 0.5/1/1.5 to 0.33/0.66/1.
+
+
++ Changes aim to tone down his high mobility allowing for more counterplay while at maximum charges.
+
+
+_______________________________________________
+
+
+Revenant
+
+
+Mortification
+- Mortification now reduces healing received by 25% at all levels.
+
+Manifestation
+- Level 2: Defile now grants +85 Attack Speed to the target ally while it lasts.
+
+
++ Some slight adjustments as Revenant has been underperforming.
+
+
+_______________________________________________
+
+
+Salomon - Reverted to his previous iteration in Version 4.2.0
+
+
+Cosmic Cleave
+- Activate to deal damage in a wide arc equal to 30/60/90/120 + 50% of Salomon’s Attack Damage and apply a 20% Movement Speed slow for 2.5 seconds, either 300 or 600 units away from you.
+
+
+Wish For Wealth
+- Passively grants a charge for 40 seconds every time you kill an enemy unit. Additionally, grants gold equal to 4/7/10/13 + Charges for every enemy unit you kill.
+- Gold bonus caps out at 10/15/20/25 per kill.
+- Charges are individually timed.
+
+
+Wish For Power
+- Passively grants 10/15/20/25 Attack Speed to you and nearby allies.
+- Activate to double the Attack Speed boost for 10 seconds.
+
+
+Wish For Revenge
+- Activate to transform yourself into an Avatar of Revenge. While transformed, you gain all new abilities and any damage taken will drain from the avatar instead of your life.
+- Avatar has 1100/1700/2300 Health but loses 55/85/115 every second.
+
+
+Flaming Cleave
+- Activate to unleash a frontal cleave dealing damage to enemies 300 units in front of you.
+- Deals 100/200/300 + 50% of Attack Damage as Magic Damage.
+
+
+Avenging Leap
+- Target an enemy to leap stunning enemies for 1.25 seconds in a 300 unit radius around the target.
+- Deals 50/100/150 Magic Damage.
+
+
+Golden Sword
+- Autoattacks and abilities passively apply a 20% Movement Speed slow to enemies for 3 seconds.
+- Hero kills grant 60/120/180 bonus gold.
+
+
+Wish For Power
+- Can only be activated if at 35% Health or lower.
+- Activate to release spheres orbiting outwards from you dealing up to 400/600/800 Magic Damage. Each orb then explodes dealing an additional 75/112.5/150 Magic Damage.
+
+
++ Reverting Salomon to a previous iteration will bring back viability to this hero.
+
+
+_______________________________________________
+
+
+Sapphire
+
+
+Unstable Shard
+- Cooldown reduced from 20 to 18 seconds.
+
+
+Quickshield
+- Cooldown reduced from 20 to 18 seconds.
+- Mana cost reduced from 70 to 60.
+
+
++ These adjustments should boost Sapphire’s efficiency as she has been underperforming since her last round of changes.
+
+
+_______________________________________________
+
+
+Scout
+
+
+Vanish
+- Cooldown rescaled from 12/10/8/6 to 6 seconds.
+
+
+Electric Eye
+- Gadget no longer blocks neutral camps from respawning.
+- Reveal radius increased from 300 to 350.
+
+
++ These changes aim to give Scout more utility in the early stages of the game to help his role as an active ganker and vision control hero.
+
+
+_______________________________________________
+
+
+Shadowblade
+
+
+Starting Attack Damage increased from 47-50 to 51-55.
+
+
++ This change aims to help Shadowblade perform his carry role.
+
+
+_______________________________________________
+
+
+Shellshock
+
+
+Starting Strength increased from 20 to 22.
+* Starting Attack Damage remains the same (48-55).
+Starting Intelligence increased from 17 to 19.
+Base Movement Speed reduced from 285 to 280.
+* Now the slowest hero in the game.
+Base Armor increased from 0 to 2.51.
+* Starting Armor increased from 2.24 to 4.75.
+
+
+Fireflies
+- Magic Damage reduced from 110/140/180/220 to 50/100/150/200.
+- Mana cost increased from 60/70/80/90 to 80/85/90/95.
+- Cooldown increased from 10 to 11 seconds.
+- Now spawns 17 wisps along the way for 15 seconds. Whenever an enemy walks into one of those wisps, the wisp attaches to it for the rest of its duration, dealing 10/14/18/22 Magic Damage and applies a 0.15 Magic Armor debuff per wisp.
+
+
+Rolling Thunder
+- Cooldown reduced from 16 to 16/15/14/13 seconds.
+- Projectile speed increased by 50%: from 600 + 100 per second of charging to 900 + 150 per second of charging.
+- Now also stuns for an additional 0.25 seconds per mounted ally hero.
+- Player controlled units no longer increase the effectiveness of Rolling Thunder.
+
+
+Sanctuary Stone
+- Can be toggled to grant either positive aura to allied heroes or negative aura to enemy heroes.
+- Toggle has a 5 second cooldown.
+- Radius increased from 600 to 700/800/900/1000.
+- Now works on allied and enemy creeps.
+- Now attaches automatically to enemies who come within 350 range of the dropped Sanctuary Stone.
+
+
+Superconductor
+- Radius increased from 350 to 350/400/450.
+- No longer grants a damaging AoE on use.
+- On cast, stuns enemies hit for 0.8 seconds and pulls them towards Shellshock.
+- Now removes the Magic Armor debuff from Fireflies to deal 10/20/30 additional Magic Damage per stack of removed Magic Armor.
+
+
++ Adjustments to his stats and improvements throughout his entire kit should increase his early game roaming presence and utility throughout the game.
+
+
+_______________________________________________
+
+
+Silhouette
+
+
+Attack range increased from 475 to 500.
+
+
++ A boost to help her compete with other carries.
+
+
+_______________________________________________
+
+
+Skrap
+
+
+Strength per level increased from 1.6 to 2.0.
+
+
++ This change aims to improve Skrap’s survivability in the later stages of the game, allowing him to provide a longer healing presence.
+
+
+_______________________________________________
+
+
+Solstice
+
+
+No longer switches her form automatically when the Day/Night starts.
+
+
+Solar Slash
+- Can now be activated to toggle to Night mode on a 45 second cooldown.
+
+
+Crescent Strike
+- Can now be activated to toggle to Day mode on a 45 second cooldown.
+- Grants 10/15/20/25% lifesteal when attacking creeps with your third attack.
+
+
++ Addressing her biggest limitation will make the hero feel smoother to play and less predictable on how she will rotate around the map.
+
+
+_______________________________________________
+
+
+Soul Reaper
+
+
+Judgment
+- Healing to allies reduced from 75/100/125/150 to 60/85/110/135.
+
+
+Withering Presence
+- Radius reduced from 800/900/1000/1100 to 800 at all levels.
+- No longer applies a slow when activated.
+
+
++ These changes aim to reduce Soul Reaper’s team-fight presence even further as the last round of nerfs didn’t achieve their intended goal.
+
+
+_______________________________________________
+
+
+Slither
+
+
+Toxin Wards
+- Charge refresh timer increased from 3 to 4 seconds.
+- Gadget no longer blocks neutral camps from respawning.
+
+
+Poison Burst
+- Cooldown increased from 110/90/70 to 110/95/80 seconds.
+
+
++ These changes aim to reduce his team-fight presence slightly and reduce the Toxin Ward spam after the last round of buffs.
+
+
+_______________________________________________
+
+
+Tarot
+
+
+Ricochet
+- Cooldown reduced from 15 to 13 seconds.
+
+
++ An increase to her farming and ganking efficiency.
+
+
+_______________________________________________
+
+
+Tremble
+
+
+Terror Mounds
+- Number of attacks to destroy a Terror Mound from outside reduced from 6 to 5 hits.
+- Enemies who attack the Terror Mound can no longer miss when hitting.
+- Cooldown reduced from 25 to 20 seconds.
+
+
++ These changes aim to reduce some frustrating mechanics caused by Terror Mounds.
+
+
+_______________________________________________
+
+
+Torturer
+
+
+Starting Attack Damage increased from 45-49 to 49-53.
+
+
++ A QoL change for his laning phase.
+
+
+_______________________________________________
+
+
+Valkyrie
+
+
+Strength per level increased from 1.8 to 1.9.
+Agility per level increased from 2.5 to 2.6.
+Starting Armor increased from 1.94 to 2.94.
+
+
+Call of the Valkyrie
+- Mana cost reduced from 80/100/120/140 to 80/95/110/125.
+
+
+Javelin of Light
+- Projectile Speed increased from 857.14 to 900.
+
+
+Valkyrie’s Prism
+- Cooldown reduced from 125/110/95 to 110/100/90 seconds.
+- Movement Speed bonus changed from 12% to 10/12/14%.
+- Fade time decreased from 2.5/2/1.5 to 2/1.75/1.5 seconds.
+
+
++ These changes should further Valkyrie’s efficiency as the last round of changes didn’t quite achieve their intended goal.
+
+
+_______________________________________________
+
+
+Voodoo Jester
+
+
+Starting Attack Damage reduced from 51-59 to 49-55.
+
+
++ This change aims to slightly reduce his early game damage.
+
+
+_______________________________________________
+
+
+War Beast
+
+
+Battle Cry
+- Cooldown reduced from 70/60/50/40 to 55/50/45/40 seconds.
+- Duration rescaled from 20 seconds to 14/16/18/20 seconds.
+
+
++ This change will improve laning viability for War Beast.
+
+
+_______________________________________________
+
+
+Warchief
+
+
+Sacred Totems
+- Now spawns all totems on every ability level.
+- Flame Totem deals 40/60/80/100 Magic Damage every second to the weakest nearby enemy up to 4 times.
+- Life Totem heals the weakest nearby damaged ally hero every second for 15/30/45/60 up to 4 times.
+- Shock Totem stuns up to 2 enemies for 0.25/0.5/0.75/1 second, stunning the secondary target after a 2 second delay.
+- Mana cost reduced from 100/135/170/205 to 100/130/160/190.
+
+
++ These changes will give more emphasis to his niche of totems early game.
+
+
+_______________________________________________
+
+
+Wildsoul
+
+
+Starting Agility increased from 24 to 26.
+* Starting Attack Damage remains the same (46-50).
+Starting Armor increased from 3.36 to 4.2.
+
+
+Summon Booboo
+- Now spawns with 250 mana.
+
+
++ Some QoL changes to improve his early game.
+
+
+_______________________________________________
+
+
+Witch Slayer
+
+
+Miniaturization
+- Mana cost increased from 90/120/150/180 to 105/130/155/180.
+
+
+Silver Bullet
+- Magic Damage reduced from 550/750/950 to 500/675/850.
+
+
++ These changes aim to lower his mana efficiency early game and slow down the damage ramp of Silver Bullet with the previous introduction of bonus damage per charge.
+
+
+_______________________________________________
+
+
+Xemplar
+
+
+Schism
+- No longer takes 100% damage for the first 5 seconds.
+* Illusions spawned will always take 150% damage.
+
+
++ This is due to the changes made to Arcane Bomb and its interaction with Schism illusions.
+
+
+_______________________________________________
+
+
+Zephyr
+
+
+Starting Agility increased from 18 to 24.
+* Starting Attack Damage changed from 48-58 to 52-58.
+Agility per level increased from 2.3 to 2.4.
+
+
+Wind Shield
+- Can now be activated:
+- Surround yourself in a 250 radius sphere that passively pushes enemies back for the duration.
+- Mana cost: 55
+- Cooldown: 23/21/19/17 seconds
+- Duration: 1.5/2/2.5/3 seconds
+
+
++ A QoL change to Zephyr’s early game alongside some added utility to his kit to synergize with the other abilities.
+
+
+
+
+
+
+= Items =
+
+
+
+
+
+
+Abyssal Skull
+- No longer grants 10% lifesteal to ranged units.
+
+
++ This change will disincentivize ranged carries to buy this early game and further promote the eventual build-into of a Sinner’s Inscription to supportive heroes.
+
+
+Arcane Bomb - Rework
+- Changed how the item works to the following:
+- After a 0.5 second delay, create a 600 unit radius Burning Field at a point that’s within 1200 range that lasts for 5 seconds. Enemies inside receive 40 Magic Damage per second. Player-controlled units and illusions receive an additional damage equal to 10% of their Max Health.
+
+
++ Changes made to this item aim to minimize hard-countering illusion based heroes while still providing counter-play to the frustration of illusion spam abilities. Illusions will take noticeable damage within the area, making it easier to differentiate which hero is fake versus real, while giving time to the illusion-controlling hero to react to the effects.
+
+
+Brutalizer
+- Component buildup changed to: Broadsword (1200) + Halberd (1000) + Bolstering Armband (450) + Recipe (400).
+* Total cost remains the same (3050).
+- Damage increased from 25 to 30.
+- Bash proc damage reduced from 85 to 65.
+
+
++ Previously having 2 Halberds was counter-intuitive as the proc effects don’t work together.
+
+
+Dreamcatcher
+- Component buildup changed to: Soul Trap (600) + Blood Ruby (550) + Apprentice’s Robe (450) + Recipe (800).
+* Total cost increased from 2150 to 2400 gold.
+- Intelligence increased from +6 to +12.
+- No longer grants +20 Movement speed.
+
+
++ Another cost increase should put this item more in-line with its effects in addition to adjusting some of the stats provided.
+
+
+New Item: Frost Spire
+- Components: Neophyte’s Book (1000) + Blood Ruby (550) + Apprentice’s Robe (450) + Recipe (500) = 2500 gold.
+- +20 Intelligence.
+- +200 Max Health.
+- Passive: Non-DOT Spell Damage reduces enemy’s Movement Speed by 7% for 2.5 seconds, stacking up to 3 times.
+
+
++ The introduction of this item aims to further diversify choices for caster heroes in the early to mid game. Providing them with a unique alternative that brings utility and defensive capabilities hopes to achieve this goal.
+
+
+Icon of the Goddess - Rework 
+- Component buildup changed to: Glowstone (1200) + Neophyte’s Book (1000) + Manatube (850).
+* Total cost decreased from 3250 to 3050.
+- +250 Max Health.
+- +150 Max Mana (450 fully charged).
+- +12 Intelligence.
+- +125% Mana Regeneration (305% fully charged).
+- Passive: Gains a charge and applies Gift of the Goddess (+10 Mana Regeneration and your abilities refresh 1.33x faster) to self for 15 seconds if an enemy hero dies within 1000 range.
+- Each Charge grants +20 Max Mana and 12% Mana Regeneration, up to 15 Charges.
+- At max charges of 15, gain 75 Cast Speed.
+* No longer loses charges upon death.
+
+
++ The previous version granting bonuses to Max Health contradicted the high-risk, high-reward mechanic. Shifting the focus of the item towards Mana Regeneration will make it more attractive to a wider variety of heroes that want mana sustain. 
++ The new charge system will promote a unique payoff once obtaining max charges without having to forego the downsides of losing charges when dying.
+
+
+Psionic Hood - Rework
+- Component buildup changed to: Shaman’s Headdress (2050) + Beastheart (1100) + Recipe (500).
+* Total cost increased from 3300 to 3650 gold.
+- +10 Magic Armor.
+- +10 Health Regeneration.
+- +15% Stun and Debuff Resistance.
+- +15% Cooldown Reduction (Modifier).
+- +300 Max Health.
+- Passive: Whenever you receive damage, this item gains a charge (up to 100). Reduce incoming Magic Damage by 0.2% per charge. Charges disappear at a pace of 20 per second if you haven’t received any damage in the last 1.5 seconds.
+
+
++ Changes made to this item aim to further differentiate from other protective items. The addition of Cooldown Reduction, Bonus Health and the new passive effect granting Magic Damage Reduction will make it a viable alternative for heroes that want to tank damage and continuously stay in the front lines.
+
+
+Sacrificial Stone
+- No longer grants increased healing to Accursed and Jeraziah.
+
+
++ This item now only applies bonus healing to ranged heroes.
+
+
+Spellshards - Rework
+- No longer grants 30/45/60% Magic Armor penetration.
+- No longer increases Spell Damage vs. non-heroes by 10/15/20%.
+- Now grants +8/12/16% increased Magic Damage.
+
+
++ The previous iteration of Spellshards was problematic due to scaling Magic Armor penetration along with other benefits it gave for an inexpensive cost. This change will keep the damage output roughly the same against heroes with no Magic Armor items, while lowering its effectiveness against higher Magic Armor targets.
+
+
+New Item: Storm Lance
+- Components: Punchdagger (500) + Wind Whistle (200) + Duck Boots (150) + Recipe (300) = 1150 gold.
+- +4 Agility.
+- +12 Attack Damage.
+- +20 Movement Speed.
+- Passive: When moving, gain 1 charge per 12.5 units moved, up to 100 charges. Your next attack deals an additional 0.4 Physical Damage per charge, then removes all charges.
+
+
++ This item provides another way of enhancing your ganking potential by increasing your mobility and giving the oomph to your first attack.
+
+
+Wind Whistle
+- Passive Movement Speed no longer stacks with items this builds into (e.g. Energizer, Vitalizer, Storm Lance, Stormspirit).
+- The highest valued MS item will take priority.
+
+
++ This will limit multiple Wind Whistle built items from stacking their movement speeds together.
+
+
+
+
+
+
+== Bug Fixes and Optimization ==
+
+
+
+
+
+
+= Heroes =
+
+
+Adrenaline
+- Added a description explaining what charges do when killing a hero in Death’s Halo while not having a SoTM.
+
+
+Devourer
+- Fixed a bug causing Guttling Hook to not break invisibility or Veiled Rot unless you land the hook.
+
+
+Doctor Repulsor
+- Updated the Detailed Tooltip to explain the activated mana cost spent on Ludicrous Speed.
+
+
+Electrician
+- With SoTM, the shield now absorbs the correct value per mana consumed.
+
+
+Flux
+- Fixed a bug causing the alt avatar Polar Opposite Flux to be missing.
+
+
+Geomancer
+- Updated the missing tooltip for Dig.
+
+
+Grinex
+- Fixed a Tooltip error that Rift Stalk was applying a stacking negative armor.
+
+
+Gunblade
+- Now no longer increases damage to towers when in melee range with Lethal Range.
+
+
+Jeraziah
+- Updated the description for Righteous Strike’s slow duration.
+- Fixed a bug causing SoTM to not grant bonus Strength from Sol’s Blessing.
+
+
+Kane
+- Fixed the Description of Face Off showing the wrong duration per level.
+- Fixed the Tooltip for Face Off not requiring a SoTM to unlock the bonus damage.
+
+
+Martyr
+- Fixed a bug causing Guardian Angel to apply all incoming damage reduction twice.
+
+
+Midas
+- Updated the Tooltip for Golden Salvo having incorrect touch radius.
+
+
+Riftwalker
+- Re-enabled previously bugged avatars.
+
+
+Succubus
+- With SoTM, now correctly applies damage reduction to self.
+
+
+Wildsoul
+- Fixed a bug causing Oblivion Hammer’s passive bash to not work on Booboo.
+
+
+Witch Slayer
+- Updated the Detailed Tooltip for Silver Bullet’s charge granting bonus damage.
+
+
+= Items =
+
+
+Beastheart
+- Updated the in-game shop description to read the correct value of bonus health the item grants.
+
+
+Grimoire of Power
+- Updated the description for the activation to the correct duration.
+
+
+Savage Mace
+- Removed from the description that it could be disassembled.
+
+ ==  Credits  ==
+
+
+
+
+
+
+- Special thanks to Nathill, the true hero and solo-core Hard Carry of this patch. We are forever grateful for his hard work and determination to bring us more content.
+- Thank you NigfriD for your work on Salomon’s visual effects and implementation of Circe’s SoTM.
+- Thank you Kim22 for your work on Cthulhuphant’s new visual effects and translating the string-tables to Thai.
+- Thank you Kratos for translating the patch notes to Thai.
+- Thank you to Luishas, Dutchownage & Rajjix for their collaboration for SoTM changes.
+- Thank you to Olgir for translating the patch notes to Russian.
+- Special thanks to UselessGeek for design collaboration and endless hours of listening to WYG.
+- Thank you to korDen for his collaboration with making patches.
+- Special thanks to WYG for designing the patch changes and attempting not to break the game.
+
+
+Thank you to the community for your on-going support in this project. See you all on the battlefield.
